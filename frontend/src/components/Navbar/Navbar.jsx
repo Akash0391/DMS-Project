@@ -47,7 +47,7 @@ export const Navbar = () => {
     <nav>
       <div className="left">
         <Link to="/" className="nav-logo">
-          <p>DISASTER MANAGEMENT SYSTEM(DMS)</p>
+          <p>DISASTER MANAGEMENT SYSTEM</p>
         </Link>
       </div>
       <div className="right">

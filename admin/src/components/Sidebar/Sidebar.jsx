@@ -32,13 +32,7 @@ export const Sidebar = () => {
     <div className="sidebar">
       <div className="top-section">
         <div className="top">
-          <Link to={'/'}>
-            <img
-              className="logo"
-              src="/warmhands-logo-full.png"
-              alt="logo-warmhands"
-            />
-          </Link>
+            <p>DMS</p>
         </div>
         <div className="center">
           <ul>

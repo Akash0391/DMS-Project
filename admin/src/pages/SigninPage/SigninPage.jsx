@@ -65,7 +65,7 @@ export const SigninPage = () => {
             </link>
           </div> */}
           <div className="header">
-            <p>Disaster Management System(DMS)</p>
+            <p>Disaster Management System</p>
           </div>
         </div>
 
