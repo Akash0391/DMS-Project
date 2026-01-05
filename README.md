@@ -1,7 +1,5 @@
 # WarmHands - Disaster Management System
 
-![WarmHands_logo](frontend/src/assets/warmhands-logo-full.png)
-
 This is a Disaster Management System developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This system allows users to report incidents related to natural disasters and notifies users in the affected area after admin verification.
 
 ## Table of Contents
@@ -31,7 +29,7 @@ This is a Disaster Management System developed using the MERN stack (MongoDB, Ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WarmHands-DMS/warmhands.git
+   git clone https://github.com/Akash0391/DMS-Project.git
    cd warmhands
    ```
 
